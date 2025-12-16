@@ -66,7 +66,8 @@ Here are some screenshots of the game:
 <img width="2559" height="1512" alt="Screenshot 2025-12-16 153326" src="https://github.com/user-attachments/assets/67a67447-cb0c-492c-ac22-5fb21e06997f" />
 
 ### AI Advisor
-<img width="2559" height="1513" alt="Screenshot 2025-12-16 153244" src="https://github.com/user-attachments/assets/31e653d6-e76f-4a75-855d-a8ba61e1c0d0" />
+<img width="2559" height="1522" alt="Screenshot 2025-12-16 182323" src="https://github.com/user-attachments/assets/84463b11-f957-44c0-913a-84d46354cf03" />
+
 
 ### Game Over Screen
 <img width="2554" height="1519" alt="Screenshot 2025-12-16 175750" src="https://github.com/user-attachments/assets/cd04a457-77d4-46dc-99e9-f9c8384fbb0f" />
